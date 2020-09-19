@@ -9,8 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          </br>
-            Update By Noman
+          <p>
+            Updated By Nouman
+          </p>
 
         </p>
         <a
